@@ -1,0 +1,1 @@
+This is a simple but stylish template for a real estate agency website, written in HTML and CSS (without javascript). If someone has a desire to use this template for their own purposes, then they can change the pictures, titles to their own. This template may well become the basis for a multi-page website
